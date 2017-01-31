@@ -1,0 +1,15 @@
+.member_wrapper {
+  margin-right: 250px;
+}
+.member_content {
+  float: left;
+  width: 100%;
+}
+.member_picture {
+  float: right;
+  width: 200px;
+  margin-right: -200px;
+}
+.member_cleared {
+  clear: both;
+}
