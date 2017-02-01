@@ -9,10 +9,10 @@
 /* diver: 0,47,47     002F2F */
 
 /* was #36393B */
-a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: underline; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap; */
-        a:visited, h1 a:visited { color: #36393B; text-decoration-color: #8E8D75; text-decoration: underline; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap;} */
+a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: underline; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap; */
+        a:visited, h1 a:visited { color: #36393B; text-decoration-color: #8E8D75; text-decoration: underline; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap;} */
 /* was #DBDDC9 */
-        a:hover, h1 a:hover { color: #FFFFDD; text-decoration-color: #000000; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap;} */
+        a:hover, h1 a:hover { color: #FFFFDD; text-decoration-color: #000000; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; } /* white-space: nowrap;} */
   
         body {
         padding:0px;
@@ -33,26 +33,26 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
 
                 .h1_underline {
                         text-decoration: none; 
-                        background: url(pixs/underline_h1_gray.gif) repeat-x 100% 100%;
+                        background: url(/pixs/underline_h1_gray.gif) repeat-x 100% 100%;
                         padding-bottom: 3px;
                         white-space: nowrap;
                 }
 
-                .h1_underline a { color: #36393B; text-decoration: none; background: url(pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
-                .h1_underline a:visited { color: #36393B;  text-decoration: none; background: url(pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
-                .h1_underline a:hover { color: #E28648;  text-decoration: none; background: url(pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline a { color: #36393B; text-decoration: none; background: url(/pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline a:visited { color: #36393B;  text-decoration: none; background: url(/pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline a:hover { color: #E28648;  text-decoration: none; background: url(/pixs/underline_h1.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
 
                 .h1_underline_cream {
                         color: #DBDDC9 !important;
                         text-decoration: none; 
-                        background: url(pixs/underline_h1_cream.gif) repeat-x 100% 100%;
+                        background: url(/pixs/underline_h1_cream.gif) repeat-x 100% 100%;
                         padding-bottom: 3px;
                         white-space: nowrap;
                 }
 
-                .h1_underline_cream a { color: #DBDDC9 !important; text-decoration: none; background: url(pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
-                .h1_underline_cream a:visited { color: #DBDDC9 !important;  text-decoration: none; background: url(pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
-                .h1_underline_cream a:hover { color: #E28648 !important;  text-decoration: none; background: url(pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline_cream a { color: #DBDDC9 !important; text-decoration: none; background: url(/pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline_cream a:visited { color: #DBDDC9 !important;  text-decoration: none; background: url(/pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
+                .h1_underline_cream a:hover { color: #E28648 !important;  text-decoration: none; background: url(/pixs/underline_h1_cream.gif) repeat-x 100% 100%; padding-bottom: 3px; white-space: nowrap;}
 
         p {
                 font-family: source-sans-pro,acuta,georgia,serif;
@@ -115,7 +115,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 text-align:left;
                 min-height:100px;
                 float:left;
-                background-image: url(pixs/bckgd_container.gif);
+                background-image: url(/pixs/bckgd_container.gif);
                 background-repeat: repeat-y;
         }
 
@@ -318,7 +318,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                         float:left;
                         padding:0px 0px 0px 20px;
                         margin:0px 0px 0px 0px;
-                        background-image: url(pixs/bckgd_wrapper_quip_orange.gif);
+                        background-image: url(/pixs/bckgd_wrapper_quip_orange.gif);
                         background-repeat: repeat-y;
                 }
                 
@@ -327,7 +327,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                         float:left;
                         padding:0px 0px 0px 20px;
                         margin:0px 0px 0px 0px;
-                        background-image: url(pixs/bckgd_wrapper_quip_blue.gif);
+                        background-image: url(/pixs/bckgd_wrapper_quip_blue.gif);
                         background-repeat: repeat-y;
                 }               
 
@@ -336,7 +336,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                         float:left;
                         padding:0px 0px 0px 20px;
                         margin:0px 0px 0px 0px;
-                        background-image: url(pixs/bckgd_wrapper_quip_green.gif);
+                        background-image: url(/pixs/bckgd_wrapper_quip_green.gif);
                         background-repeat: repeat-y;
                 }
 
@@ -345,7 +345,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                         float:left;
                         padding:0px 0px 20px 20px;
                         margin:0px 0px 0px 0px;
-                        background-image: url(pixs/bckgd_wrapper_quip_cream.gif);
+                        background-image: url(/pixs/bckgd_wrapper_quip_cream.gif);
                         background-repeat: repeat-y;
                 }
                 
@@ -382,7 +382,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 font-weight:700;
                 line-height:48px;
                 text-decoration: none; 
-                background: url(pixs/underline_numbers.gif) repeat-x 100% 100%;
+                background: url(/pixs/underline_numbers.gif) repeat-x 100% 100%;
                 padding-bottom: 8px;
                 white-space: nowrap;
         }       
@@ -399,7 +399,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                         font-weight:700;
                         line-height:48px;
                         text-decoration: none; 
-                        background: url(pixs/underline_numbers.gif) repeat-x 100% 100%;
+                        background: url(/pixs/underline_numbers.gif) repeat-x 100% 100%;
                         padding-bottom: 12px;
                         white-space: nowrap;
         }
@@ -411,7 +411,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 font-weight:700;
                 line-height:48px;
                 text-decoration: none; 
-                background: url(pixs/underline_numbers.gif) repeat-x 100% 100%;
+                background: url(/pixs/underline_numbers.gif) repeat-x 100% 100%;
                 padding-bottom: 2px;
                 white-space: nowrap;
         }       
@@ -425,9 +425,9 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 padding: 0px 0px 0px 20px;
         }
 
-        .page a { color: #9B9C9D; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
-        .page a:visited { color: #9B9C9D; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
-        .page a:hover { color: #E28648; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
+        .page a { color: #9B9C9D; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
+        .page a:visited { color: #9B9C9D; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
+        .page a:hover { color: #E28648; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 1px; white-space: nowrap;}
 
 
         .month {
@@ -487,9 +487,9 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 line-height:15px;
         }       
 
-        .quip_data a { color: #36393B; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
-        .quip_data a:visited { color: #36393B; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
-        .quip_data a:hover { color: #DBDDC9; text-decoration: none; background: url(pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
+        .quip_data a { color: #36393B; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
+        .quip_data a:visited { color: #36393B; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
+        .quip_data a:hover { color: #DBDDC9; text-decoration: none; background: url(/pixs/underline_h1_gray_transp.png) repeat-x 100% 100%; padding-bottom: 2px; white-space: nowrap;}
 
         .quip_date {
                 font-family: "skolar-1","skolar-2",georgia,serif;
@@ -500,7 +500,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 letter-spacing:1px;
                 text-transform:lowercase;
                 text-decoration: none; 
-                background: url(pixs/underline_numbers.gif) repeat-x 100% 100%;
+                background: url(/pixs/underline_numbers.gif) repeat-x 100% 100%;
                 padding-bottom: 4px;
                 white-space: nowrap;
                 margin:0px 0px 20px 0px;
@@ -515,7 +515,7 @@ a, h1 a { color: #36393B; text-decoration-color: #8E8D75; text-decoration: under
                 line-height:18px;
                 letter-spacing:1px;
                 text-decoration: none; 
-                background: url(pixs/underline_numbers.gif) repeat-x 100% 100%;
+                background: url(/pixs/underline_numbers.gif) repeat-x 100% 100%;
                 padding-bottom: 3px;
                 margin:0px 0px 10px 0px;
                 white-space: nowrap;
